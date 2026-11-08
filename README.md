@@ -33,3 +33,4 @@ Built by team **Placeholders** for module CMP4285 at Aston University.
 - Created the 3D model of the device
 - Designed the project sketches and the final presentation
 - Designed and made the props and the display table for our showcase day
+
